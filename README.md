@@ -10,7 +10,7 @@ In this project, we will simulate a Burglar Alarm on Tinkercad using the 7408 IC
 - Project Link   
 - Contibuting  
 - Acknowledgements
-
+- License
 
 ## Installation
 
